@@ -12,31 +12,31 @@ Our dev-centric AI testing tool runs on every push and never flakes, so you can 
 
 ### High-velocity teams run on trust. And Momentic.
 
-![Screenshot 2025-05-08 at 1.14.42 PM.png](Momentic%20Landing%20Page%20Copy%20v1%201ed900c73cee809bab00e9e7cd4e91a9/Screenshot_2025-05-08_at_1.14.42_PM.png)
+![Screenshot 2025-05-08 at 1.14.42 PM.png](./Screenshot_2025-05-08_at_1.14.42_PM.png)
 
 **BENEFITS AND FEATURES**
 
 ## **QA you control and speed you can trust.**
 
-![Screenshot 2025-05-08 at 1.46.05 PM.png](Momentic%20Landing%20Page%20Copy%20v1%201ed900c73cee809bab00e9e7cd4e91a9/Screenshot_2025-05-08_at_1.46.05_PM.png)
+![Screenshot 2025-05-08 at 1.46.05 PM.png](./Screenshot_2025-05-08_at_1.46.05_PM.png)
 
 ### **Integrate automated testing into your flow**
 
 Momentic connects with your CI/CD tools, GitHub, Slack, and more. Tests run  automatically on every push
 
-![Screenshot 2025-05-08 at 1.45.36 PM.png](Momentic%20Landing%20Page%20Copy%20v1%201ed900c73cee809bab00e9e7cd4e91a9/Screenshot_2025-05-08_at_1.45.36_PM.png)
+![Screenshot 2025-05-08 at 1.45.36 PM.png](./Screenshot_2025-05-08_at_1.45.36_PM.png)
 
 ### **Own QA and improve velocity**
 
 Keep tests in code, cut the handoffs, and move faster with confidence.
 
-![Screenshot 2025-05-08 at 1.45.01 PM.png](Momentic%20Landing%20Page%20Copy%20v1%201ed900c73cee809bab00e9e7cd4e91a9/Screenshot_2025-05-08_at_1.45.01_PM.png)
+![Screenshot 2025-05-08 at 1.45.01 PM.png](./Screenshot_2025-05-08_at_1.45.01_PM.png)
 
 ### **Zero maintenance, zero flake**
 
 Our AI adapts with your app, so tests don’t break. No brittle scripts. No constant upkeep.
 
-![Screenshot 2025-05-08 at 1.46.30 PM.png](Momentic%20Landing%20Page%20Copy%20v1%201ed900c73cee809bab00e9e7cd4e91a9/Screenshot_2025-05-08_at_1.46.30_PM.png)
+![Screenshot 2025-05-08 at 1.46.30 PM.png](./Screenshot_2025-05-08_at_1.46.30_PM.png)
 
 ### **Reliable at any scale**
 
